@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>PoornaChandar</name>
+	      <name>maven-releases</name>
 	      <url>http://13.233.190.78:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Poorna</name>
+	      <name>maven-snapshots</name>
 	      <url>http://13.233.190.78:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
