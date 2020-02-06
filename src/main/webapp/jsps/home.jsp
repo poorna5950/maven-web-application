@@ -11,6 +11,11 @@
 <body>
 <h1 align="center">Poorna  Technologies.</h1>
 	<h2>This is Devops learnung</h2>
+	
+	<h3>Poorna Chandar Rao</h3>
+	<h4>Shwetha</h4>
+	<h5>Getika</h5>
+	<h6>Himaani</h6>
 <h1 align="center">Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <div style="text-align: center;">
