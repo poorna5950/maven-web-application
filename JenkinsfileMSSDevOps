@@ -1,7 +1,0 @@
-node{
-   
-    stage('checkoutCode'){
-        git credentialsId: '85b6f47a-30dd-467a-a4ce-4f9b19918d9f', url: 'https://github.com/poorna5950/maven-web-application.git'
-    }
-   	
-}
