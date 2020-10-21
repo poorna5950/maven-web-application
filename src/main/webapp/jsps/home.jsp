@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Poorna  Technologies.</h1>
+<h1 align="center">Himaani&Getika  Technologies.</h1>
 	<h2>This is Devops learnung</h2>
 	
 	<h3>Poorna Chandar Rao</h3>
