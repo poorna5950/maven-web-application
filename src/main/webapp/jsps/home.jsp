@@ -10,12 +10,7 @@
 </head>
 <body>
 <h1 align="center">Himaani&Getika  Technologies.</h1>
-	<h2>This is Devops learnung</h2>
-	
-	<h3>Poorna Chandar Rao</h3>
-	<h4>Shwetha</h4>
-	<h5>Himaani</h5>
-	<h6>Getika</h6>
+	<h2>This is Devops Institute</h2>
 <h1 align="center">Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <div style="text-align: center;">
