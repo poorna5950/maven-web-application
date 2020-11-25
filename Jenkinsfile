@@ -37,6 +37,6 @@ node
 
  Regards,
  Mithun Technologies,
- 9980923226.''', subject: 'Build is over', to: 'devopstrainingblr@gmail.com'
+ 9980923226.''', subject: 'Build is over', to: 'poorna5950@gmail.com'
  }
 }
